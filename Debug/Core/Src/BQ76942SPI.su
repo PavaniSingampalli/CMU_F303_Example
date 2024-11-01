@@ -1,0 +1,2 @@
+../Core/Src/BQ76942SPI.c:23:6:SPI_WriteReg	56	static
+../Core/Src/BQ76942SPI.c:65:6:SPI_ReadReg	56	static

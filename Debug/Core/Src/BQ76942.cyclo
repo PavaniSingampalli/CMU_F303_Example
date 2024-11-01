@@ -1,0 +1,10 @@
+../Core/Src/BQ76942.c:32:10:BQ769x2_ReadVoltage	3
+../Core/Src/BQ76942.c:52:6:BQ769x2_ReadAllVoltages	2
+../Core/Src/BQ76942.c:64:6:BQ769x2_ReadCellBalance	1
+../Core/Src/BQ76942.c:70:6:BQ769x2_WriteCellBalance	1
+../Core/Src/BQ76942.c:84:10:Checksum	4
+../Core/Src/BQ76942.c:108:6:BQ769x2_SetRegister	5
+../Core/Src/BQ76942.c:159:6:handle_direct_commands	3
+../Core/Src/BQ76942.c:187:6:handle_subcommands	4
+../Core/Src/BQ76942.c:234:6:handle_command_only_subcommands	1
+../Core/Src/BQ76942.c:251:6:BQ769x2_Init	1
